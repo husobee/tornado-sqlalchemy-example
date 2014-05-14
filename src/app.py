@@ -3,10 +3,7 @@
 :file: tornado-sqlalchemy/app.py
 :author: husobee
 :date: 2014-05-13
-
-..
-    $LicenseInfo:firstyear=2014&license=MIT$
-    $/LicenseInfo$
+:license: MIT License, 2014
 
     Small example of using sqlalchemy with tornado, with an executor, to not block up ioloop
 

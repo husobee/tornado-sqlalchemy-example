@@ -3,12 +3,9 @@
 :file: tornado-sqlalchemy/models.py
 :author: husobee
 :date: 2014-05-13
+:license: MIT License, 2014
 
-..
-    @version $Id$
-
-    $LicenseInfo:firstyear=2014&license=MIT$
-    $/LicenseInfo$
+    Models for the tornado application
 """
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base

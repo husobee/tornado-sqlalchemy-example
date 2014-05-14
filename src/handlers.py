@@ -3,12 +3,10 @@
 :file: tornado-sqlalchemy/handlers.py
 :author: husobee
 :date: 2014-05-13
+:license: MIT License, 2014
 
-..
-    @version $Id$
+    Handlers for the tornado application
 
-    $LicenseInfo:firstyear=2014&license=MIT$
-    $/LicenseInfo$
 """
 
 from tornado import web, gen
